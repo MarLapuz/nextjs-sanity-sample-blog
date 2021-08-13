@@ -16,7 +16,7 @@
     "@sanity/client": "^1.148.1",
     "@sanity/image-url": "^0.140.17",
     "groq": "^1.148.1",
-    "next": "^9.0.3",
+    "next": "^11.1.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
